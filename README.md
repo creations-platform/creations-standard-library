@@ -1,2 +1,1 @@
-# creations-standard-library
-Creations Standard Library
+# The Creations Standard Library
